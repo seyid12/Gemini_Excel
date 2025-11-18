@@ -1,0 +1,106 @@
+C:\Users\seyidyıldız\source\repos\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\GeminiExcelCopilot.dll
+C:\Users\seyidyıldız\source\repos\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\GeminiExcelCopilot.pdb
+C:\Users\seyidyıldız\source\repos\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\GeminiExcelCopilot.dll.manifest
+C:\Users\seyidyıldız\source\repos\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\GeminiExcelCopilot.vsto
+C:\Users\seyidyıldız\source\repos\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\seyidyıldız\source\repos\GeminiExcelCopilot\GeminiExcelCopilot\obj\Debug\GeminiExcelCopilot.csproj.AssemblyReference.cache
+C:\Users\seyidyıldız\source\repos\GeminiExcelCopilot\GeminiExcelCopilot\obj\Debug\GeminiExcelCopilot.Properties.Resources.resources
+C:\Users\seyidyıldız\source\repos\GeminiExcelCopilot\GeminiExcelCopilot\obj\Debug\GeminiExcelCopilot.TaskPaneControl.resources
+C:\Users\seyidyıldız\source\repos\GeminiExcelCopilot\GeminiExcelCopilot\obj\Debug\GeminiExcelCopilot.csproj.GenerateResource.cache
+C:\Users\seyidyıldız\source\repos\GeminiExcelCopilot\GeminiExcelCopilot\obj\Debug\GeminiExcelCopilot.csproj.CoreCompileInputs.cache
+C:\Users\seyidyıldız\source\repos\GeminiExcelCopilot\GeminiExcelCopilot\obj\Debug\GeminiEx.D256932A.Up2Date
+C:\Users\seyidyıldız\source\repos\GeminiExcelCopilot\GeminiExcelCopilot\obj\Debug\GeminiExcelCopilot.dll
+C:\Users\seyidyıldız\source\repos\GeminiExcelCopilot\GeminiExcelCopilot\obj\Debug\GeminiExcelCopilot.pdb
+C:\Users\seyidyıldız\source\repos\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\GeminiExcelCopilot.dll.config
+C:\Users\seyidyıldız\source\repos\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\GenerativeAI.dll
+C:\Users\seyidyıldız\source\repos\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\seyidyıldız\source\repos\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\seyidyıldız\source\repos\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\seyidyıldız\source\repos\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\seyidyıldız\source\repos\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\seyidyıldız\source\repos\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\seyidyıldız\source\repos\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\seyidyıldız\source\repos\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\System.Buffers.dll
+C:\Users\seyidyıldız\source\repos\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\seyidyıldız\source\repos\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\seyidyıldız\source\repos\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\System.IO.Pipelines.dll
+C:\Users\seyidyıldız\source\repos\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\System.Memory.dll
+C:\Users\seyidyıldız\source\repos\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\seyidyıldız\source\repos\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\seyidyıldız\source\repos\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\seyidyıldız\source\repos\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\System.Text.Json.dll
+C:\Users\seyidyıldız\source\repos\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\seyidyıldız\source\repos\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\System.ValueTuple.dll
+C:\Users\seyidyıldız\source\repos\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\GenerativeAI.xml
+C:\Users\seyidyıldız\source\repos\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\seyidyıldız\source\repos\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\seyidyıldız\source\repos\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\seyidyıldız\source\repos\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\seyidyıldız\source\repos\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\seyidyıldız\source\repos\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\seyidyıldız\source\repos\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\seyidyıldız\source\repos\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\System.Buffers.xml
+C:\Users\seyidyıldız\source\repos\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\seyidyıldız\source\repos\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\System.IO.Pipelines.xml
+C:\Users\seyidyıldız\source\repos\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\System.Memory.xml
+C:\Users\seyidyıldız\source\repos\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\seyidyıldız\source\repos\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\seyidyıldız\source\repos\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\seyidyıldız\source\repos\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\System.Text.Json.xml
+C:\Users\seyidyıldız\source\repos\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\seyidyıldız\source\repos\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\System.ValueTuple.xml
+C:\Users\seyidyıldız\source\repos\GeminiExcelCopilot\GeminiExcelCopilot\obj\Debug\GeminiExcelCopilot.dll.config
+C:\Users\seyidyıldız\source\repos\GeminiExcelCopilot\GeminiExcelCopilot\obj\Debug\GeminiExcelCopilot.GeminiRibbon.resources
+C:\Users\seyidyıldız\OneDrive - ogr.dicle.edu.tr\Masaüstü\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\GeminiExcelCopilot.dll.config
+C:\Users\seyidyıldız\OneDrive - ogr.dicle.edu.tr\Masaüstü\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\GeminiExcelCopilot.dll
+C:\Users\seyidyıldız\OneDrive - ogr.dicle.edu.tr\Masaüstü\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\GeminiExcelCopilot.pdb
+C:\Users\seyidyıldız\OneDrive - ogr.dicle.edu.tr\Masaüstü\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\GeminiExcelCopilot.dll.manifest
+C:\Users\seyidyıldız\OneDrive - ogr.dicle.edu.tr\Masaüstü\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\GeminiExcelCopilot.vsto
+C:\Users\seyidyıldız\OneDrive - ogr.dicle.edu.tr\Masaüstü\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\GenerativeAI.dll
+C:\Users\seyidyıldız\OneDrive - ogr.dicle.edu.tr\Masaüstü\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\seyidyıldız\OneDrive - ogr.dicle.edu.tr\Masaüstü\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\seyidyıldız\OneDrive - ogr.dicle.edu.tr\Masaüstü\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\seyidyıldız\OneDrive - ogr.dicle.edu.tr\Masaüstü\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\seyidyıldız\OneDrive - ogr.dicle.edu.tr\Masaüstü\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\seyidyıldız\OneDrive - ogr.dicle.edu.tr\Masaüstü\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\seyidyıldız\OneDrive - ogr.dicle.edu.tr\Masaüstü\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\seyidyıldız\OneDrive - ogr.dicle.edu.tr\Masaüstü\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\seyidyıldız\OneDrive - ogr.dicle.edu.tr\Masaüstü\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\System.Buffers.dll
+C:\Users\seyidyıldız\OneDrive - ogr.dicle.edu.tr\Masaüstü\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\seyidyıldız\OneDrive - ogr.dicle.edu.tr\Masaüstü\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\seyidyıldız\OneDrive - ogr.dicle.edu.tr\Masaüstü\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\System.IO.Pipelines.dll
+C:\Users\seyidyıldız\OneDrive - ogr.dicle.edu.tr\Masaüstü\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\System.Memory.dll
+C:\Users\seyidyıldız\OneDrive - ogr.dicle.edu.tr\Masaüstü\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\seyidyıldız\OneDrive - ogr.dicle.edu.tr\Masaüstü\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\seyidyıldız\OneDrive - ogr.dicle.edu.tr\Masaüstü\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\seyidyıldız\OneDrive - ogr.dicle.edu.tr\Masaüstü\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\System.Text.Json.dll
+C:\Users\seyidyıldız\OneDrive - ogr.dicle.edu.tr\Masaüstü\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\seyidyıldız\OneDrive - ogr.dicle.edu.tr\Masaüstü\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\System.ValueTuple.dll
+C:\Users\seyidyıldız\OneDrive - ogr.dicle.edu.tr\Masaüstü\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\GenerativeAI.xml
+C:\Users\seyidyıldız\OneDrive - ogr.dicle.edu.tr\Masaüstü\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\seyidyıldız\OneDrive - ogr.dicle.edu.tr\Masaüstü\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\seyidyıldız\OneDrive - ogr.dicle.edu.tr\Masaüstü\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\seyidyıldız\OneDrive - ogr.dicle.edu.tr\Masaüstü\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\seyidyıldız\OneDrive - ogr.dicle.edu.tr\Masaüstü\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\seyidyıldız\OneDrive - ogr.dicle.edu.tr\Masaüstü\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\seyidyıldız\OneDrive - ogr.dicle.edu.tr\Masaüstü\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\seyidyıldız\OneDrive - ogr.dicle.edu.tr\Masaüstü\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\System.Buffers.xml
+C:\Users\seyidyıldız\OneDrive - ogr.dicle.edu.tr\Masaüstü\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\seyidyıldız\OneDrive - ogr.dicle.edu.tr\Masaüstü\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\System.IO.Pipelines.xml
+C:\Users\seyidyıldız\OneDrive - ogr.dicle.edu.tr\Masaüstü\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\System.Memory.xml
+C:\Users\seyidyıldız\OneDrive - ogr.dicle.edu.tr\Masaüstü\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\seyidyıldız\OneDrive - ogr.dicle.edu.tr\Masaüstü\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\seyidyıldız\OneDrive - ogr.dicle.edu.tr\Masaüstü\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\seyidyıldız\OneDrive - ogr.dicle.edu.tr\Masaüstü\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\System.Text.Json.xml
+C:\Users\seyidyıldız\OneDrive - ogr.dicle.edu.tr\Masaüstü\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\seyidyıldız\OneDrive - ogr.dicle.edu.tr\Masaüstü\GeminiExcelCopilot\GeminiExcelCopilot\bin\Debug\System.ValueTuple.xml
+C:\Users\seyidyıldız\OneDrive - ogr.dicle.edu.tr\Masaüstü\GeminiExcelCopilot\GeminiExcelCopilot\obj\Debug\GeminiExcelCopilot.csproj.AssemblyReference.cache
+C:\Users\seyidyıldız\OneDrive - ogr.dicle.edu.tr\Masaüstü\GeminiExcelCopilot\GeminiExcelCopilot\obj\Debug\GeminiExcelCopilot.dll.config
+C:\Users\seyidyıldız\OneDrive - ogr.dicle.edu.tr\Masaüstü\GeminiExcelCopilot\GeminiExcelCopilot\obj\Debug\GeminiExcelCopilot.GeminiRibbon.resources
+C:\Users\seyidyıldız\OneDrive - ogr.dicle.edu.tr\Masaüstü\GeminiExcelCopilot\GeminiExcelCopilot\obj\Debug\GeminiExcelCopilot.Properties.Resources.resources
+C:\Users\seyidyıldız\OneDrive - ogr.dicle.edu.tr\Masaüstü\GeminiExcelCopilot\GeminiExcelCopilot\obj\Debug\GeminiExcelCopilot.TaskPaneControl.resources
+C:\Users\seyidyıldız\OneDrive - ogr.dicle.edu.tr\Masaüstü\GeminiExcelCopilot\GeminiExcelCopilot\obj\Debug\GeminiExcelCopilot.csproj.GenerateResource.cache
+C:\Users\seyidyıldız\OneDrive - ogr.dicle.edu.tr\Masaüstü\GeminiExcelCopilot\GeminiExcelCopilot\obj\Debug\GeminiExcelCopilot.csproj.CoreCompileInputs.cache
+C:\Users\seyidyıldız\OneDrive - ogr.dicle.edu.tr\Masaüstü\GeminiExcelCopilot\GeminiExcelCopilot\obj\Debug\GeminiEx.D256932A.Up2Date
+C:\Users\seyidyıldız\OneDrive - ogr.dicle.edu.tr\Masaüstü\GeminiExcelCopilot\GeminiExcelCopilot\obj\Debug\GeminiExcelCopilot.dll
+C:\Users\seyidyıldız\OneDrive - ogr.dicle.edu.tr\Masaüstü\GeminiExcelCopilot\GeminiExcelCopilot\obj\Debug\GeminiExcelCopilot.pdb
