@@ -93,7 +93,7 @@ Eklenti ilk açıldığında API anahtarı soracaktır.
 
 * **Dil:** C# (.NET Framework 4.8)
 * **Platform:** VSTO (Visual Studio Tools for Office) Excel Add-in
-* **Yapay Zeka:** Google Gemini 1.5 Flash (`Google.Ai.GenerativeLanguage`)
+* **Yapay Zeka:** Google Gemini 2.5 Flash (`Google.Ai.GenerativeLanguage`)
 * **Arayüz:** Windows Forms (WinForms)
 
 ---
