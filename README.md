@@ -39,7 +39,7 @@ Bu projeyi kendi bilgisayarınızda çalıştırmak veya geliştirmek için aşa
 
 ### Gereksinimler
 * **İşletim Sistemi:** Windows 10 veya 11
-* **Yazılım:** Microsoft Excel (2016, 2019 veya Office 365)
+* **Yazılım:** Microsoft Excel (2016, 2019, 2021, 2024 veya Office 365)
 * **IDE:** Visual Studio 2022 (Community, Professional veya Enterprise)
 * **Workload:** Visual Studio Installer'da *"Office/SharePoint development"* seçili olmalıdır.
 * **API:** Google AI Studio'dan alınmış bir [Gemini API Anahtarı](https://aistudio.google.com/).
